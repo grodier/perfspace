@@ -1,7 +1,8 @@
 ---
 Date: {{date}}
 Tags: 
-	- note
+  - note
+  - resource
 ---
 Content:
 

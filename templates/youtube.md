@@ -1,9 +1,9 @@
 ---
 Date: {{date}}
-Tags: 
-  - link
+tags: 
+  - youtube
   - resource
 ---
-Link:
+//youtube ![]()
 
 Notes:

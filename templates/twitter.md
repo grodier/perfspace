@@ -1,9 +1,9 @@
 ---
 Date: {{date}}
 Tags: 
-  - link
+  - twitter
   - resource
 ---
-Link:
+//twitter ![]()
 
 Notes:
