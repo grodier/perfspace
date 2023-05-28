@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "baee309db9ebce75",
+        "id": "56eee9ffb5f88d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "150f47fa845acc18",
+            "id": "73a55befc90a66af",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "150f47fa845acc18",
+  "active": "73a55befc90a66af",
   "lastOpenFiles": [
+    "Resources/Towards a Unified Theory of Web Performance.md",
     "Resources/Nordic.js 2022 • Vitaly Friedman - Boosting Web Performance in 2022.md",
     "Resources/capo.js.md",
     "Resources/A circle of web performance innovation.md",
